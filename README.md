@@ -1,5 +1,5 @@
 # operating_system_lab-Spring_2022
-## Design and implementation of experiments related to computer architecture:
+## Design and implementation of experiments related to operating system:
 - 1) Getting to know the Linux operating system environment and installing Ubuntu
 - 2) Getting to know how to write kernel modules and run them on Linux kernel
 - 3) Bash scripting
