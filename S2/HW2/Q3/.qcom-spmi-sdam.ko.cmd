@@ -1,0 +1,1 @@
+cmd_/home/lab/Desktop/HW2/Q3-v2/qcom-spmi-sdam.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/lab/Desktop/HW2/Q3-v2/qcom-spmi-sdam.ko /home/lab/Desktop/HW2/Q3-v2/qcom-spmi-sdam.o /home/lab/Desktop/HW2/Q3-v2/qcom-spmi-sdam.mod.o ;  true

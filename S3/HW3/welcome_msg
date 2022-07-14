@@ -1,0 +1,10 @@
+hour=$(date +"%H")
+if [ $hour -gt 12 ]
+then
+       echo "Good evening!"
+else
+       echo "Good morning!"
+fi
+date=$(date +"%y/%m/%d")
+echo "today is $date."
+

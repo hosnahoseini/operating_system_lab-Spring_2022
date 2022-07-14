@@ -1,0 +1,1 @@
+cmd_/home/lab/Desktop/HW2/HW2_Q2/Q2.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/lab/Desktop/HW2/HW2_Q2/Q2.ko /home/lab/Desktop/HW2/HW2_Q2/Q2.o /home/lab/Desktop/HW2/HW2_Q2/Q2.mod.o ;  true
